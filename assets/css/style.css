@@ -1,0 +1,26 @@
+body{   
+    color: blue;
+    background-image: url("../../assets/images/light-grey-terrazzo.png");
+    
+}
+#game{
+    margin: auto;
+    background-color: teal;
+    height: 300px;
+    margin-top: 100px;
+    
+}
+
+.values{
+    background-color: white;
+    width: 400px;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+header{
+    text-align: center;
+    background-color: white;
+}
